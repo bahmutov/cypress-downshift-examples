@@ -6,3 +6,9 @@ This repo was downloaded from [this code sandbox](https://codesandbox.io/s/githu
 See the tests in [cypress/integration/spec.js](./cypress/integration/spec.js) and other files inside [cypress/integration](./cypress/integration) folder.
 
 ![Example test](./images/test.png)
+
+## Videos
+
+Example | Spec | Video
+---|---|---
+[00-get-root-props-example](./downshift/ordered-examples/00-get-root-props-example) | [spec](./cypress/integration/spec.js) | [Testing A Basic Downshift.js Dropdown Example](https://youtu.be/0lnOnO84nvY)
