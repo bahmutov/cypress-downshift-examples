@@ -9,6 +9,6 @@ See the tests in [cypress/integration/spec.js](./cypress/integration/spec.js) an
 
 ## Videos
 
-Example | Spec | Video
+Example | Spec | Video(s)
 ---|---|---
-[00-get-root-props-example](./downshift/ordered-examples/00-get-root-props-example) | [spec](./cypress/integration/spec.js) | [Testing A Basic Downshift.js Dropdown Example](https://youtu.be/0lnOnO84nvY)
+[00-get-root-props-example](./downshift/ordered-examples/00-get-root-props-example) | [spec](./cypress/integration/spec.js) | [Testing A Basic Downshift.js Dropdown Example](https://youtu.be/0lnOnO84nvY), [Test A Downshift.js Dropdown Using Keyboard](https://youtu.be/HC0T9aEO6yM)
